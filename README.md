@@ -19,11 +19,9 @@ Once the database is imported successfully, the system is ready to use.
 5.	Use one of the following credentials to log in:
 Login Credentials
 Admin Access:
-
 •	Email: klaudia@unyt.edu.al
 •	Password: 12345678
 Employee Access:
-
 •	Email: gerta@unyt.edu.al
 •	Password: 12345678
 •	Email: hatixhe@unyt.edu.al
