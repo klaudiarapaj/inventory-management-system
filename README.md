@@ -59,11 +59,13 @@
 
 ---
 
-**Developed by Klaudia Rapaj for academic purposes.**
-
 ## Employee Functionalities
 
 - **Profile** – View and edit your personal profile.
 - **Home** – Overview of key system statistics.
 - **Products** – View, search, and edit product details.
 - **Transactions** – Record purchases and update inventory in real-time.
+
+---
+
+**Developed by Klaudia Rapaj for academic purposes.**
